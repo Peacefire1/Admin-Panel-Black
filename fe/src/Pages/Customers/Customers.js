@@ -4,7 +4,7 @@ import React from "react";
 const Customer = () => {
   return (
     <div>
-      <Typography.Text>Customers</Typography.Text>
+      <Typography.Title level={4}>Customers</Typography.Title>
     </div>
   );
 };
